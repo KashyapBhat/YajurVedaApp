@@ -19,9 +19,9 @@ An application for vedic practitioners.
 * Resume reading dialog
 * ViewPager on top to traverse easily
 
-![Home](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-![Brightness](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-![Orientation](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-![Remainder](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-![Share](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![Home](assets/home.png)
+![Brightness](assets/brightness.png)
+![Orientation](assets/orientation.png)
+![Remainder](assets/remainder.png)
+![Share](assets/share.png)
 
