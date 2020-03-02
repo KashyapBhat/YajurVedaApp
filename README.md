@@ -4,7 +4,15 @@ For learning kotlin with MVP, Dependency Injection, Database, Permissions handli
 ## OVERVIEW:
 An application for vedic practitioners.
 
-## GOALS:
+## Screenshots:
+
+<div align="center">
+ <img title="Home" src="assets/home.png" height="812" width="375" title>
+ <img title="Brightness and other settings" src="assets/brightness.png" height="812" width="375">
+ <img title="Landscape" src="assets/orientation.png" height="375" width="812">
+</div>
+
+## More Information about the app:
 
 * Make an application to help users read the documents from pdf.
 * Text data to be stored in firebase and to be accessed from database
@@ -19,9 +27,4 @@ An application for vedic practitioners.
 * Resume reading dialog
 * ViewPager on top to traverse easily
 
-![Home](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-![Brightness](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-![Orientation](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-![Remainder](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-![Share](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
