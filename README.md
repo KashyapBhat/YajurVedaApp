@@ -9,7 +9,7 @@ An application for vedic practitioners.
 <div align="center">
  <img title="Home" src="assets/home.png" height="812" width="375" title>
  <img title="Brightness and other settings" src="assets/brightness.png" height="812" width="375">
- <img title="Landscape" src="assets/landscape.png" height="375" width="812">
+ <img title="Landscape" src="assets/landscape_img.png" height="375" width="812">
 </div>
 
 ## More Information about the app:
