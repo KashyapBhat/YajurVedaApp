@@ -22,7 +22,7 @@ An application for vedic practitioners.
  <img src="assets/home.png" height="736" width="414">
  <img src="assets/brightness.png" height="667" width="375">
  <img src="assets/orientation.png" height="375" width="812">
- <img src="assets/remainder.png" height="375" width="812">
+ <img src="assets/remainder.png" height="812" width="375">
  <img src="assets/share.png" height="400" width="250">
 </div>
 
