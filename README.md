@@ -18,10 +18,11 @@ An application for vedic practitioners.
 * Reminder for everyday / Parental control.
 * Resume reading dialog
 * ViewPager on top to traverse easily
-
-![Home](assets/home.png)
-![Brightness](assets/brightness.png)
-![Orientation](assets/orientation.png)
-![Remainder](assets/remainder.png)
-![Share](assets/share.png)
+<div align="center">
+ <img src="assets/home.png" height="24" width="48">
+ <img src="assets/brightness.png" height="24" width="48">
+ <img src="assets/orientation.png" height="24" width="48">
+ <img src="assets/remainder.png" height="24" width="48">
+ <img src="assets/share.png" height="24" width="48">
+</div>
 
