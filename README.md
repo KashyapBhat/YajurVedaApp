@@ -19,7 +19,7 @@ An application for vedic practitioners.
 * Resume reading dialog
 * ViewPager on top to traverse easily
 <div align="center">
- <img src="assets/home.png" height="400" width="250">
+ <img src="assets/home.png" height="100" width="100">
  <img src="assets/brightness.png" height="400" width="250">
  <img src="assets/orientation.png" height="400" width="250">
  <img src="assets/remainder.png" height="400" width="250">
