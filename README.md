@@ -4,16 +4,10 @@ For learning kotlin with MVP, Dependency Injection, Database, Permissions handli
 ## OVERVIEW:
 An application for vedic practitioners.
 
-## Screenshots:
+Information about the app
+-----
 
-<div align="center">
- <img title="Home" src="assets/home.png" height="812" width="375" title>
- <img title="Brightness and other settings" src="assets/brightness.png" height="812" width="375">
- <img title="Landscape" src="assets/landscape_img.png" height="375" width="812">
-</div>
-
-## More Information about the app:
-
+```
 * Make an application to help users read the documents from pdf.
 * Text data to be stored in firebase and to be accessed from database
 * Use Kotlin, MVP, Dagger
@@ -26,14 +20,15 @@ An application for vedic practitioners.
 * Reminder for everyday / Parental control.
 * Resume reading dialog
 * ViewPager on top to traverse easily
-
-Usage
------
-
 ```
-Android Studio
-Java8
-```
+
+## Screenshots:
+
+<div align="center">
+ <img title="Home" src="assets/home.png" height="812" width="375" title>
+ <img title="Brightness and other settings" src="assets/brightness.png" height="812" width="375">
+ <img title="Landscape" src="assets/landscape_img.png" height="375" width="812">
+</div>
 
 License
 =======
