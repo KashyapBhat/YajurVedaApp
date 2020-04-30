@@ -1,5 +1,16 @@
 # YajurVedaApp
-An application for vedic practitioners. Created this to help me learn kotlin with Design patterns (MVP), Dependency Injection (Dagger2), Database(RoomDB), Firebase, ML kit and more.
+
+An application for vedic practitioners. 
+
+Created this to help me learn kotlin with Design patterns (MVP), Dependency Injection (Dagger2), Database(RoomDB), Firebase, ML kit and more.
+
+## Screenshots:
+
+<div align="center">
+ <img title="Home" src="assets/home.png" height="812" width="375" title>
+ <img title="Brightness and other settings" src="assets/brightness.png" height="812" width="375">
+ <img title="Landscape" src="assets/landscape_img.png" height="375" width="812">
+</div>
 
 Information about the app
 -----
@@ -18,14 +29,6 @@ Information about the app
 * Resume reading dialog
 * ViewPager on top to traverse easily
 ```
-
-## Screenshots:
-
-<div align="center">
- <img title="Home" src="assets/home.png" height="812" width="375" title>
- <img title="Brightness and other settings" src="assets/brightness.png" height="812" width="375">
- <img title="Landscape" src="assets/landscape_img.png" height="375" width="812">
-</div>
 
 License
 =======
