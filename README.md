@@ -1,8 +1,4 @@
 # YajurVedaApp
-For learning kotlin with MVP, Dependency Injection, Database, Permissions handling etc
-
-## OVERVIEW:
-An application for vedic practitioners.
 
 Information about the app
 -----
