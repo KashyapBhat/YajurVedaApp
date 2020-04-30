@@ -1,4 +1,5 @@
 # YajurVedaApp
+An application for vedic practitioners. Created this to help me learn kotlin with Design patterns (MVP), Dependency Injection (Dagger2), Database(RoomDB), Firebase, ML kit and more.
 
 Information about the app
 -----
